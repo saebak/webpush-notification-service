@@ -1,5 +1,18 @@
 # webpush-notification-service
-웹 푸시 서비스
+
+### ⚒️ SKILL
+
+ * Java 1.8
+ * Spring Boot 2.7
+ * JPA
+ 
+### 🛝 Structure
+
+ * Layerd Architecture
+
+### 📄 Database
+
+ * MySQL
 
 
 ## 화면정의서 (초안)
